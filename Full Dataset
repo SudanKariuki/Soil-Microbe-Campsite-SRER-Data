@@ -1,0 +1,6 @@
+echo "# Soil-Microbe-Campsite-SRER-Data" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/SudanKariuki/Soil-Microbe-Campsite-SRER-Data.git
+git push -u origin master
